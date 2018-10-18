@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "749195739167",
+    "firebase_url": "https://liveclass-e586a.firebaseio.com",
+    "project_id": "liveclass-e586a",
+    "storage_bucket": "liveclass-e586a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749195739167:android:e4bceb7995675827",
+        "android_client_info": {
+          "package_name": "schoolofnet.com.liveclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749195739167-rcem0a4hu79ibcrcbbanrlr07k8lm6u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP_dq9QG7W75jLDwDRASg7pYU8f5835s0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
